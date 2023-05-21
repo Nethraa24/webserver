@@ -64,7 +64,7 @@ httpd.serve_forever()
 ## OUTPUT:
 ## server output:
 
-![serverop](https://github.com/KothaiKumar/webserver/assets/121215739/33905c87-d29f-4c4a-b107-63957fec3a06)
+
 
 ## Client Output:
 
